@@ -1,4 +1,4 @@
-# readme-teplace (Project's title goes here)
+# readme-template (Project's title goes here)
 
 ## Description
 
